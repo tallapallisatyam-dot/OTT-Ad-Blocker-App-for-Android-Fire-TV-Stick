@@ -1,7 +1,9 @@
 # OTT-Ad-Blocker-App-for-Android-Fire-TV-Stick
 OTT Ad Blocker App for Android &amp; Fire TV Stick 🔥 | Single Device License Starting ₹50
 
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/d26f52bf-7007-4e67-8222-f674fa21e318" />
+![Uploading OTT_AdBlocker_Poster_PrimeVideo_16x9.png…]()
+
+
 
 
 <img width="337" height="603" alt="image" src="https://github.com/user-attachments/assets/7848479b-7163-41f8-a3a2-ebc50d5850ce" />
