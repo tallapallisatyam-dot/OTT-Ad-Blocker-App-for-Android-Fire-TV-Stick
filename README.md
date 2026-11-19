@@ -15,7 +15,7 @@ https://youtube.com/shorts/O_M9o0ZiIks
 
 Introducing an OTT Ad Blocker App for Android smartphones and Amazon Fire TV Stick devices.
 
-✅ Supports JioHotstar, ZEE5 and SonyLIV (compatible configurations).  
+✅ Supports JioHotstar, Amazon Prime, ZEE5 and SonyLIV (compatible configurations).  
 ✅ Designed for smartphones and Fire TV Stick devices.  
 ✅ Single-device license starting at just ₹50.  
 ✅ Lifetime updates for ad-blocking functionality at no additional cost.  
