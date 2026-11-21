@@ -4,7 +4,7 @@ OTT Ad Blocker App for Android &amp; Fire TV Stick 🔥 | Single Device License 
 <img width="1920" height="1080" alt="OTT_AdBlocker_Poster_PrimeVideo_16x9" src="https://github.com/user-attachments/assets/cd5ce048-1cfe-4102-b462-3f7e3b3179a0" />
 
 
-<img width="337" height="603" alt="image" src="<img width="454" height="491" alt="image" src="https://github.com/user-attachments/assets/5d14d9f1-0fdb-415e-948a-5d18adda6f94" />
+<img width="454" height="491" alt="image" src="https://github.com/user-attachments/assets/5d14d9f1-0fdb-415e-948a-5d18adda6f94" />
 
 
 https://youtube.com/shorts/O_M9o0ZiIks
